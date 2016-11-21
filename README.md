@@ -1,1 +1,2 @@
 # softmax-regression
+softmax regression
